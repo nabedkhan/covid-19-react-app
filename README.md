@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Covid-19 React Application
+Live Demo: https://react-covid-19-app.netlify.app/
+
+
+## Overview
+1. This covid-19 update information application with the open Disease Data API.
+3. Worldwide daily update cases, recovered and death result
+2. I also used chartJS to visualize 1 week result.
+3. Country based covid-19 update result.
+
+
+## Technology Used
+1. Front End Side: html, css, bootstrap, javascript and react
+2. API: https://disease.sh/
 
 ## Available Scripts
 
