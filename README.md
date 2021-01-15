@@ -10,7 +10,7 @@ Live Demo: https://react-covid-19-app.netlify.app/
 
 
 ## Technology Used
-1. Front End Side: html, css, bootstrap, javascript and react
+1. Tools: React, ChatJS, Bootstrap
 2. API: https://disease.sh/
 
 ## Available Scripts
