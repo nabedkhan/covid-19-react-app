@@ -1,0 +1,27 @@
+.tableData {
+    background: #fff;
+    padding: 20px;
+}
+
+.tableData .list {
+    background: #fff;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.list td {
+    width: 100%;
+    padding: 5px;
+}
+
+.list tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.list::-webkit-scrollbar {
+    width: 5px;
+}
+
+.list::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+}

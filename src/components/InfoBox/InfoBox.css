@@ -1,0 +1,19 @@
+.infobox .MuiCardContent-root {
+    padding: 24px;
+}
+
+.infobox .MuiPaper-rounded {
+    border-radius: 0px;
+}
+
+#one h6 {
+    color: #ffc107;
+}
+
+#two h6 {
+    color: #28a745;
+}
+
+#three h6 {
+    color: #dc3545;
+}

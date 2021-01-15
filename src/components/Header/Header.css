@@ -1,0 +1,16 @@
+.form {
+    width: 100%;
+}
+
+.MuiMenu-paper::-webkit-scrollbar {
+    width: 5px;
+}
+
+.MuiMenu-paper::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    border-radius: 5px;
+}
+
+.form .MuiOutlinedInput-root {
+    border-radius: 0px;
+}
